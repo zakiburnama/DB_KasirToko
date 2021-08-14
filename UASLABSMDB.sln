@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UASLABSMDB", "tubeslabsmdb1.3\UASLABSMDB.csproj", "{09368D7A-7A7E-4DA5-B8DB-5CCE3350EF1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09368D7A-7A7E-4DA5-B8DB-5CCE3350EF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09368D7A-7A7E-4DA5-B8DB-5CCE3350EF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09368D7A-7A7E-4DA5-B8DB-5CCE3350EF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09368D7A-7A7E-4DA5-B8DB-5CCE3350EF1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {697C503A-40D2-4299-8747-9B7F191AED86}
+	EndGlobalSection
+EndGlobal
