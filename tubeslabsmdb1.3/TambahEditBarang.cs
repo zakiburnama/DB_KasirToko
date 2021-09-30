@@ -56,7 +56,7 @@ namespace tubeslabsmdb1._3
             }
             if (txtNama.Text.Trim().Length <= 0)
             {
-                MessageBox.Show("Nama Kosong!");
+                MessageBox.Show("Nama Kosong!!");
                 return;
             }
             if (txtHarga.Text.Trim().Length <= 0)
